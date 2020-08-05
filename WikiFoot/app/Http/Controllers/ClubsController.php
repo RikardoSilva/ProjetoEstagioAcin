@@ -29,7 +29,7 @@ class ClubsController extends Controller
      */
     public function index()
     {
-        $clubs = Club::orderBy('created_at', 'asc')->paginate(5);
+        $clubs = Club::orderBy('club_name', 'asc')->paginate(5);
         return view('clubs.index')->with('clubs', $clubs);
     }
 
