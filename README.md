@@ -12,7 +12,7 @@ Orientador da Universidade da Madeira: Luís Gaspar
 
 1º - Dar RUN no XAMPP Control Panel nos módulos Apache e MySQL, para ter acesso à base de dados.
 
-2º - Importar o ficheiro WikiFoot.sql na base de dados, e clicar em "executar" na parte inferior direita da página.
+2º - Importar o ficheiro WikiFoot.sql para o phpMyAdmin, e clicar em "Go" na parte inferior direita da página.
 
 3º - Criar um ficheiro .env e copiar todo o conteúdo do ficheiro .env.example para dentro deste último criado.
 
