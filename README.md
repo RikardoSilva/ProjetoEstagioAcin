@@ -1,5 +1,13 @@
 # ProjetoEstagioAcin
 
+Formando: Ricardo Silva
+
+Entidade de Acolhimento: ACIN iCloud Solutions
+
+Tutora da Entidade de Acolhimento: Sofia Meneses
+
+Orientador da Universidade da Madeira: Luís Gaspar
+
 ------- COMO INICIAR O PROJETO -------
 
 1º - Dar RUN no XAMPP Control Panel nos módulos Apache e MySQL, para ter acesso à base de dados.
